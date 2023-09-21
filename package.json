@@ -1,0 +1,17 @@
+{
+  "name": "python-p4-chatterbox-lab",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+  
+    "start": "npm start",
+    "server": "python3 chatterbox-server/server/app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0"
+  }
+}
